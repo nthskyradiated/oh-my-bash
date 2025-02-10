@@ -23,3 +23,4 @@ See the respective pages for details.
 - [`package-manager`](package-manager.aliases.md)
 - [`terraform`](terraform.aliases.md)
 - [`cargo`](cargo.aliases.md)
+- [`kubectl`](kubectl.aliases.md)
